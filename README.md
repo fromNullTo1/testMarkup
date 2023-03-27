@@ -11,3 +11,4 @@
 ====
 *****
 *****
+[some](mailto:mail@email.ru)
